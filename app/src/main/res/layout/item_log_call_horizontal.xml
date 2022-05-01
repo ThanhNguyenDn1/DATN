@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/imv_avt_log_call"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/bg_item_log_call"></ImageView>
+
+    <TextView
+        android:id="@+id/tv_name_or_phone_log_call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ng"
+        android:textColor="@color/black"
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:id="@+id/tv_type_phone_log_call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Ng"
+        android:textColor="@color/black"
+        android:textStyle="bold"></TextView>
+</LinearLayout>

@@ -4,9 +4,11 @@ plugins {
 
 android {
     compileSdk 32
-
+    buildFeatures {
+        viewBinding = true
+    }
     defaultConfig {
-        applicationId "com.omega.truecaller"
+        applicationId "com.omega.truecaller1"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -14,6 +16,7 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+
 
     buildTypes {
         release {

@@ -3,11 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/drawable/bg_item_log_call.xml" value="0.176" />
+        <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/drawable/notification_call_incoming_button_background.xml" value="0.1725" />
         <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/fragment_blocking.xml" value="0.25416666666666665" />
         <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/fragment_calls.xml" value="0.25416666666666665" />
         <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/fragment_contacts.xml" value="0.25416666666666665" />
         <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/fragment_messages.xml" value="0.25416666666666665" />
+        <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/fragment_spam.xml" value="0.19427083333333334" />
+        <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/item_log_call.xml" value="0.20572916666666666" />
+        <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/item_log_call_horizontal.xml" value="0.24010416666666667" />
+        <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/layout/item_log_call_vertical.xml" value="0.25416666666666665" />
         <entry key="..\:/Works/HUY DA/TrueCaller/app/src/main/res/menu/bottom_main.xml" value="0.25416666666666665" />
       </map>
     </option>

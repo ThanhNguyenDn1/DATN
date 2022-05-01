@@ -6,4 +6,8 @@
     <string name="Important">Important</string>
     <string name="Promotions">Promotions</string>
     <string name="Spam">Spam</string>
+    <string name="type_number_phone">Số điện thoại di động</string>
+    <string name="call_out_going">Cuộc gọi đi</string>
+    <string name="call_in_coming">Cuộc gọi đến</string>
+    <string name="call_missed">Cuộc gọi nhỡ</string>
 </resources>
